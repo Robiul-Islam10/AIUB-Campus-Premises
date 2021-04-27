@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600881978 source:c:\users\robiu\downloads\compressed\graphics projects\final project\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
